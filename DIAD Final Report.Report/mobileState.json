@@ -1,0 +1,5 @@
+{
+  "objectId": "",
+  "type": 4,
+  "explorationState": "{\"version\":\"1.8\",\"activeSection\":\"\",\"sections\":{\"ReportSection479333ec676b70c51208\":{\"visualContainers\":{\"1917934ab0120538e254\":{\"singleVisual\":{\"visualType\":\"textbox\",\"mobileObjects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"MARKET ANALYSIS\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"27pt\",\"color\":\"#000000\"}}]}]}}]}}}}},\"ReportSection227c04c41640dda6239c\":{\"visualContainers\":{\"5c7f82259c7111389937\":{\"singleVisual\":{\"visualType\":\"textbox\",\"mobileObjects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Manufacturers\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"24pt\",\"color\":\"#000000\"}}],\"horizontalTextAlignment\":\"center\"}]}}]}}}}}}}"
+}
